@@ -1,0 +1,1 @@
+Proyecto base para trabajo en el laboratorio de la asignatura GPC el curso 2023/24.
